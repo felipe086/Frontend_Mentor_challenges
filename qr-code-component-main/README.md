@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links and Screenshot
 
-- Live Site URL: [Live site URL](https://qr-code-component-seven.vercel.app/)
+- Live Site URL: [](https://qr-code-component-seven.vercel.app/)
 
 Final
 
